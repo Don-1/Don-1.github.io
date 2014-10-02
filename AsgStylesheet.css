@@ -1,0 +1,36 @@
+img {
+    float: right;
+    width:30%;
+    left:70%;
+    transform: rotate(-8deg);
+}
+
+dt {
+    font-family: Arial;
+    font-weight: Bold;
+}
+
+div {
+    width: 90%;
+}
+
+#main-div {
+    width:70%;
+    margin: 40px auto 60px;
+}
+
+p {
+    font-size:16;
+    font-weight:Bold;
+}
+
+dd {
+    font-size:16;
+    font-weight:Bold;
+}
+
+body {
+    background-image: URL(http://cdn.vectorstock.com/i/composite/57,87/background-bamboo-vector-505787.jpg);
+    background-size: 1280px 1024px;
+  
+}
